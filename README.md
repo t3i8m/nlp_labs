@@ -7,11 +7,11 @@ This repository contains practical lab work and reports for an NLP (Natural Lang
 ## 📁 Folder Structure
 
 ### 1️⃣ **Tokenization (BPE)**
-- `lab1.ipynb`: Completed or in-progress solution.
+- `lab1.ipynb`: Completed solution.
 - `lab1_report_final.pdf`: Final report submission for Lab 1.
 
 ### 2️⃣ **Information Retrieval (BOW, TF-IDF, etc.)**
-- `lab2_group_52.ipynb`: Group 52’s completed notebook.
+- `lab2_group_52.ipynb`: Completed notebook.
 - `lab2_report_group_52.pdf`: Final report for Lab 2.
 
 ### 3️⃣ **Attention & Pre-trained Models (BERT)**
@@ -19,7 +19,7 @@ This repository contains practical lab work and reports for an NLP (Natural Lang
 - `NLP_2025_Lab_3_group_52.pdf`: Final report for Lab 3.
 
 ### 4️⃣ **Prompt Engineering (LLMs)**
-- `Lab 4 Group 52.ipynb`: Notebook for prompt engineering experiments.
+- `Lab 4 Group 52.ipynb`: Notebook with prompt engineering experiments (QWEN, BART, Gemma, Flan).
 
 ---
 
