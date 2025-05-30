@@ -1,4 +1,4 @@
-# NLP Course Project – Group 52
+# NLP Course Projects
 
 This repository contains practical lab work and reports for an NLP (Natural Language Processing) course, organized by modules. Each lab explores core NLP concepts using Python and Jupyter Notebooks and has a detailed report.
 
