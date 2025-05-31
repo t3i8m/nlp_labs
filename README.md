@@ -9,6 +9,7 @@ NLP Is All You Need: The Ultimate NLP Guide,
 written by Nichita Bulgaru and Timur Jerčaks.
 
 The book provides a practical and theory-backed overview of essential NLP techniques covered throughout this course — from classic methods to modern transformer-based systems.
+
 ---
 
 ## 📁 Folder Structure
